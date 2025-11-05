@@ -1,4 +1,4 @@
-# Lab 11
+# Arrays 3
 ## Part 1: Music Playlist
 
 1. Create a Java program to represent my music library. My playlists are stored in `playlist.txt` contain all the songs I own. Design the program with **multiple classes** used to organize your information. 
